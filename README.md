@@ -1,6 +1,9 @@
 # stock-sense
 Predicts sock prices based on analysis of text. For CS221 Final Project
 
+## Dataset
+Dataset is from [`equinxx`'s Stock Tweets for Sentiment Analysis and Prediction on Kaggle](from https://www.kaggle.com/datasets/equinxx/stock-tweets-for-sentiment-analysis-and-prediction)
+
 ## Roadmap
 1. Create baselines
    * Fixed-Rate stock prediction based on sentiments
